@@ -1,0 +1,22 @@
+state={
+	id=825
+	name="STATE_825"
+	
+	state_category = town
+	
+	history = {
+		owner = NEW
+		add_core_of = NEW
+		add_core_of = USA
+		
+		buildings = {
+			infrastructure = 6
+		}
+	}
+	
+	provinces={
+		1338 1619 3732 6719 7462 10318 12202 12459 
+	}
+	manpower=1153476
+	buildings_max_level_factor=1.000
+}

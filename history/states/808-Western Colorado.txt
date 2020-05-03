@@ -1,0 +1,18 @@
+state={
+	id=808
+	name="STATE_808"
+	
+	state_category = town
+	
+	history = {
+		owner = DST
+		add_core_of = USA
+		add_core_of = DST
+	}
+	
+	provinces={
+		868 1658 3869 6887 7684 7999 9792 10535 
+	}
+	manpower=538411
+	buildings_max_level_factor=1.000
+}

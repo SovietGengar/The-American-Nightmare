@@ -1,0 +1,20 @@
+
+state={
+	id=803
+	name="STATE_803"
+
+	history={
+		owner = JEF
+		add_core_of = USA
+		add_core_of = CAL
+		add_core_of = JEF
+
+	}
+
+	provinces={
+		710 766 3588 4331 6665 9697 9713 10159 11698 
+	}
+	manpower=4201564
+	buildings_max_level_factor=1.000
+	state_category=town
+}

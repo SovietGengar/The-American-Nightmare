@@ -1,0 +1,31 @@
+ideas = {
+
+	country = {
+		legacy_of_69 = {
+			picture = saf_history_of_segregation
+		
+			allowed = {
+				always = yes
+			}
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.3
+				consumer_goods_factor = 0.08
+				conscription_factor = -0.13
+				social_democratic_drift = 0.01
+				fascism_drift = 0.01
+			}
+		
+		
+	 }
+	}
+
+
+
+}

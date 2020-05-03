@@ -1,0 +1,18 @@
+state={
+	id=813
+	name="STATE_813"
+	
+	state_category = rural
+	
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		add_core_of = ARG
+	}
+	
+	provinces={
+		2169 2199 5173 8161 8176 10953 11009 12946 12952 
+	}
+	manpower=92451
+	buildings_max_level_factor=1.000
+}

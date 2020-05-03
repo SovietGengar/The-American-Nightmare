@@ -1,0 +1,25 @@
+state={
+	id=828
+	name="STATE_828"
+	
+	state_category = city
+	
+	history = {
+		owner = NEW
+		add_core_of = NEW
+		add_core_of = USA
+		
+		buildings = {
+			infrastructure = 7
+		}
+		victory_points = {
+			11830 3
+		}
+	}
+	
+	provinces={
+		11830 
+	}
+	manpower=996110
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=802
+	name="STATE_802"
+	
+	state_category = town
+	
+	history = {
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = SLV
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces={
+		599 11595 
+	}
+	manpower=263732
+	buildings_max_level_factor=1.000
+}

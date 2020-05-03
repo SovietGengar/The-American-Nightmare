@@ -1,0 +1,18 @@
+state={
+	id=823
+	name="STATE_823"
+	
+	state_category = rural
+	
+	history = {
+		owner = NEV
+		add_core_of = NEV
+		add_core_of = USA
+	}
+	
+	provinces={
+		1862 7756 7827 10591 
+	}
+	manpower=12455
+	buildings_max_level_factor=1.000
+}

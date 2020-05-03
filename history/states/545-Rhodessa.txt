@@ -1,0 +1,28 @@
+state={
+	id=545
+	
+	state_category = town
+	
+	name="STATE_545"
+
+	history={
+		owner = ZIM
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 4
+
+		}
+		victory_points = {
+			10929 10 
+		}
+		add_core_of = ZIM
+	}
+
+	provinces={
+		1874 2151 2216 4851 7842 10929
+	}
+	manpower=13171336
+	buildings_max_level_factor=1.000
+}

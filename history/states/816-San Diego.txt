@@ -1,0 +1,18 @@
+state={
+	id=816
+	name="STATE_816"
+	
+	state_category = city
+	
+	history = {
+		owner = CAL
+		add_core_of = CAL
+		add_core_of = USA
+	}
+	
+	provinces={
+		823 1562 4727 7517 7986 12374 
+	}
+	manpower=1534568
+	buildings_max_level_factor=1.000
+}

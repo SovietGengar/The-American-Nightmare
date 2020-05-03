@@ -1,0 +1,27 @@
+state={
+	id=822
+	name="STATE_822"
+	
+	state_category = city
+	
+	history = {
+		owner = NEV
+		add_core_of = NEV
+		add_core_of = USA
+		
+		buildings = {
+			industrial_complex = 1
+			air_base = 6
+		}
+		
+		victory_points = {
+			4799 15 
+		}
+	}
+	
+	provinces={
+		4799 4816 7879 12425 
+	}
+	manpower=502303
+	buildings_max_level_factor=1.000
+}

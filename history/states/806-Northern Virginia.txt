@@ -1,0 +1,29 @@
+state={
+	id=806
+	name="STATE_806"
+	
+	state_category = town
+	
+	history = {
+		owner = USA
+		add_core_of = CSA
+		add_core_of = USA
+		
+		buildings = {
+			infrastructure = 7
+		}
+		victory_points = {
+			873 5
+		}
+		victory_points = {
+			3823 10
+		}
+		
+	}
+	
+	provinces={
+		865 873 951 3823 3917 6846 10343 11873 
+	}
+	manpower=1012343
+	buildings_max_level_factor=1.000
+}

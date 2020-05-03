@@ -1,0 +1,37 @@
+
+state={
+	id=379
+	name="STATE_379"
+	resources={
+		steel=70.000
+		tungsten=32.000
+		aluminium=25.000
+	}
+
+	history={
+		owner = NEV
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 5
+
+		}
+		add_core_of = USA
+		add_core_of = NEV
+		victory_points = {
+			4607 5 
+		}
+		victory_points = {
+			10422 10 
+		}
+
+	}
+
+	provinces={
+		4521 4607 4736 10422 12134 12399 
+	}
+	manpower=91057
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

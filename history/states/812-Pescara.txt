@@ -1,0 +1,18 @@
+state={
+	id=812
+	name="STATE_812"
+	
+	state_category = town
+	
+	history = {
+		owner = NAP
+		add_core_of = ITA
+		add_core_of = NAP
+	}
+	
+	provinces={
+		923 963 3910 3923 3966 6831 9838 11882
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+state={
+	id=809
+	name="STATE_809"
+	
+	state_category = town
+	
+	history = {
+		owner = DST
+		add_core_of = USA
+		add_core_of = DST
+	}
+	
+	provinces={
+		7888 12561 12633 
+	}
+	manpower=19120
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,32 @@
+state={
+	id=817
+	name="STATE_817"
+	
+	state_category = town
+	
+	history = [
+		owner = CAL
+		add_core_of = USA
+		add_core_of = CAL
+		
+		buildings = {
+		industrial_complex = 2
+		arms_factory = 1
+		dockyard = 1
+		infrastructure = 6
+		air_base = 4
+		
+		}
+		
+		victory_points = {
+			11859 5
+		}
+		
+	}
+	
+	provinces={
+		986 3784 3840 6861 6881 9637 11859 11876 
+	}
+	manpower=2675347
+	buildings_max_level_factor=1.000
+}

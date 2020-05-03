@@ -1,0 +1,19 @@
+state={
+	id=807
+	name="STATE_807"
+	
+	state_category = town
+	
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		add_core_of = USA
+		add_core_of = ARZ
+	}
+	
+	provinces={
+		3834 5044 7920 10783 
+	}
+	manpower=116761
+	buildings_max_level_factor=1.000
+}

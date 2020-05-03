@@ -1,0 +1,68 @@
+﻿capital = 527
+
+oob = "KOR_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	mass_assault = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 10
+	maoism = 40
+	communism = 40
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "Syngman Rhee"
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Yi Kang"
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Kim Jong Il"
+	desc = ""
+	picture = "Portrait_Korea_Kim_Jong_Il.dds"
+	expire = "2011.1.1"
+	ideology = neo-stalinism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Yi Un"
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}

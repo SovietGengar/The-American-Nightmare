@@ -1,0 +1,18 @@
+state={
+	id=819
+	name="STATE_819"
+	
+	state_category = rural
+	
+	history = {
+			owner = CAL
+			add_core_of = CAL
+			add_core_of = USA
+		}
+	
+	provinces={
+		4657 10387 11795 12303 
+	}
+	manpower=412347
+	buildings_max_level_factor=1.000
+}
