@@ -8,7 +8,7 @@ bookmarks = {
 		default = yes
 		
 		"FRA"={
-			history = "FRA_AMERICAN_nIGHTMARE_DESC_LOC"
+			history = "FRA_AMERICAN_NIGHTMARE_DESC_LOC"
 			ideology = democratic
 			available = { NOT = { has_dlc = "La Resistance" } }
 			ideas = {
