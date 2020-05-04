@@ -84,7 +84,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "George B. Hinckley"
+	name = "Gordon B. Hinckley"
 	desc = ""
 	picture = "Portrait_Deseret_George_B_Hinckley.dds"
 	ideology = nationalism
