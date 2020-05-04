@@ -35,7 +35,7 @@ save_global_event_target_as = WTT_communist_china
 
 	add_ideas = {
 		#laws
-		early_economic_mobilisation
+		civilian_economy
 		volunteer_only
 		export_focus
 	}
