@@ -107,7 +107,7 @@ if = {
 		jean_marie_bergeret
 		renault_fra
 		#laws
-		early_economic_mobilisation
+		civilian_economy
 	}
 	
 	create_faction = NATO
