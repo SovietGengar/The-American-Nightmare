@@ -85,7 +85,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Placeholder Leader"
+	name = "Rose Mofford"
 	desc = ""
 	picture = "Portrait_Arizona_Rose_Mofford.dds"
 	expire = "2020.1.1"
