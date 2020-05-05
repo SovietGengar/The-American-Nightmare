@@ -10,7 +10,7 @@ set_technology = {
 
 set_politics = {
 	ruling_party = maoism
-	last_election = "1933.3.5"
+	last_election = "1993.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -24,13 +24,13 @@ set_popularities = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+
 create_country_leader = {
 	name = "King Zog"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Albania_King_Zog.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = authoritarianism
 	traits = {
 		#
 	}
