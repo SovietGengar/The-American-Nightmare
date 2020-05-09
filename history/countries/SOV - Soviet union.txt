@@ -289,7 +289,7 @@ add_ideas = {
 
 create_country_leader = {
 	name = "Boris Yeltsin"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	desc = "boris_yeltsin_desc"
 	picture = "Portrait_Soviet_Boris_Yeltsin.dds"
 	expire = "2007.3.1"
 	ideology = marxism-leninism

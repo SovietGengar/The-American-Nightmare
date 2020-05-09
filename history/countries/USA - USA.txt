@@ -267,7 +267,7 @@ add_ideas = {
 
 create_country_leader = {
 	name = "Dick Cheney"
-	desc = ""
+	desc = "dick_cheney_desc"
 	picture = "Portrait_USA_Dick_Cheney.dds"
 	expire = "2020.1.1"
 	ideology = authoritarianism
