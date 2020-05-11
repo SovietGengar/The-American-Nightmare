@@ -44,12 +44,18 @@ if = {
 		basic_battery = 1
 	}
 }
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1998.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
 
 set_convoys = 25
 set_popularities = {
 	democratic = 10
 	fascism = 10
-	communism = 30
+	salafism = 30
 	neutrality = 50
 }
 
